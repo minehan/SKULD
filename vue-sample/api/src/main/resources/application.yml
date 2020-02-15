@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://db/AIRI_DB
+    username: root
+    password: 1234
+  hikari:
+    driverClassName: org.mariadb.jdbc.Driver
